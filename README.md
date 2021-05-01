@@ -1,9 +1,9 @@
 Git Commands
 ============
 
-___
 
-###A list of my commonly used Git commands
+
+### A list of my commonly used Git commands
 
 --
 
